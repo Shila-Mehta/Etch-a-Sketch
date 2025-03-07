@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body,html{
+    width:100vw;
+    height:100vh;
+   
+
+
+}
+
+.container{
+    width:1000px;
+    
+}
+
+
+ div {
+    margin-top: 22px;
+    text-align: center;
+    
+}
+
+.grid{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+div button{
+    padding: 22px;
+    color:red;
+    font-weight: 600;
+    font-size: 22px;
+    background-color: aqua;
+    border: none;
+}
+
+
+
+
